@@ -17,7 +17,7 @@ numpy
 scipy
 ```
 
-Você poderá instalá-las de uma só vez usando o comando `pip install -r requirements.txt` **após** ter clonado o repositório. Por último, execute o Jupyter Notebook no seu computador e navegue até a pasta onde o repositório está clonado para abrir os arquivos de exemplo.
+Você poderá instalá-las de uma só vez usando o comando `pip install -r requirements.txt` **após** ter clonado o repositório. Por último, execute o Jupyter Notebook no seu computador e navegue até a pasta onde o repositório está clonado para abrir os arquivos de exemplo. Esses arquivos também estarão disponíveis aqui no github, porém **não** podem ser alterados.
 
 ### Ementa
 1. Apresentação da disciplina e setup do ambiente;
