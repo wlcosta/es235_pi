@@ -20,9 +20,9 @@ scipy
 Você poderá instalá-las de uma só vez usando o comando `pip install -r requirements.txt` **após** ter clonado o repositório.
 
 ### Ementa
-1. [Apresentação da disciplina e setup do ambiente](1_apresentacao);
+1. Apresentação da disciplina e setup do ambiente;
 2. Representação de imagens, quantização, sistemas de cores, conversão colorido-escala de cinza;
-3. Histogramas;
+3. [Histogramas](3_histogramas);
 4. Filtragem espacial *(pt. 1)*;
 5. Filtragem espacial *(pt. 2)*;
 6. Gradientes de imagens;
