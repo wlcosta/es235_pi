@@ -1,5 +1,5 @@
 matplotlib
-python-opencv
+opencv-python
 Pillow
 scikit-image
 scikit-learn
