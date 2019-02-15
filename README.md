@@ -8,7 +8,7 @@ Ainda será necessário ter instalado as seguintes dependências:
 
 ```
 matplotlib
-python-opencv
+opencv-python
 Pillow
 scikit-image
 scikit-learn
