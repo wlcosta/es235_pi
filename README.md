@@ -2,6 +2,11 @@
 Repositório com exemplos e materiais de aula da disciplina **ES235 - Processamento de Imagem do curso de Engenharia Eletrônica (CTG)**.
 
 ### Para usar este repositório
+
+**Requisitos**:
+1. Para Windows: [Git](https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe)[Python](https://www.python.org/downloads/release/python-352/)
+2. Para Linux: `sudo apt-get install git python3`
+
 Esse repositório irá armazenar códigos de exemplo para o material da disciplina. A maioria dos códigos serão disponibilizados em [**Python**](https://www.python.org/), testados na versão 3.5, no formato de Notebooks Jupyter. 
 
 Ainda será necessário ter instalado as seguintes dependências:
