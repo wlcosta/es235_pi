@@ -4,5 +4,5 @@ Pillow
 scikit-image
 scikit-learn
 jupyter
-numpy
+numpy==1.15
 scipy
