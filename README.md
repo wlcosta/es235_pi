@@ -5,7 +5,7 @@ Repositório com exemplos e materiais de aula da disciplina **ES235 - Processame
 
 **Requisitos**:
 1. Para Windows: [[Git]](https://github.com/git-for-windows/git/releases/download/v2.20.1.windows.1/Git-2.20.1-64-bit.exe) [[Python]](https://www.python.org/downloads/release/python-352/) *(**obs**: lembrar de marcar "add python to PATH")*
-2. Para Linux: `sudo apt-get install git python3 python3-pip jupyter-core jupyter-notebook`
+2. Para Ubuntu: `sudo apt-get install git python3 python3-pip jupyter-core jupyter-notebook`
 
 Esse repositório irá armazenar códigos de exemplo para o material da disciplina. A maioria dos códigos serão disponibilizados em [**Python**](https://www.python.org/), testados na versão 3.5, no formato de Notebooks Jupyter. 
 
@@ -28,7 +28,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 1. Apresentação da disciplina e setup do ambiente;
 2. [Representação de imagens, quantização, sistemas de cores, conversão colorido-escala de cinza](2_representacao);
 3. [Histogramas](3_histogramas);
-4. Filtragem espacial *(pt. 1)*;
+4. [Filtragem espacial *(pt. 1)*](4_filtragem_pt1);
 5. Filtragem espacial *(pt. 2)*;
 6. Gradientes de imagens;
 7. Segmentação por cor;
