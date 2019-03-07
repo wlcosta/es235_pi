@@ -6,3 +6,4 @@ scikit-learn
 jupyter
 numpy==1.15
 scipy
+ipywidgets

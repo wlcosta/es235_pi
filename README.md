@@ -29,7 +29,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 2. [Representação de imagens, quantização, sistemas de cores, conversão colorido-escala de cinza](2_representacao);
 3. [Histogramas](3_histogramas);
 4. [Filtragem espacial *(pt. 1)*](4_filtragem_pt1);
-5. Filtragem espacial *(pt. 2)*;
+5. [Filtragem espacial *(pt. 2)*](5_filtragem_pt2);
 6. Gradientes de imagens;
 7. Segmentação por cor;
 8. **Projeto 0**: controle de robô seguidor de linha
