@@ -20,6 +20,7 @@ scikit-learn
 jupyter
 numpy
 scipy
+ipywidgets
 ```
 
 Você poderá instalá-las de uma só vez usando o comando `pip install -r requirements.txt` **após** ter clonado o repositório. Por último, execute o Jupyter Notebook no seu computador e navegue até a pasta onde o repositório está clonado para abrir os arquivos de exemplo. Esses arquivos também estarão disponíveis aqui no github, porém **não** podem ser alterados.
@@ -30,7 +31,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 3. [Histogramas](3_histogramas);
 4. [Filtragem espacial *(pt. 1)*](4_filtragem_pt1);
 5. [Filtragem espacial *(pt. 2)*](5_filtragem_pt2);
-6. Gradientes de imagens;
+6. [Gradientes de imagens](6_gradientes);
 7. Segmentação por cor;
 8. **Projeto 0**: controle de robô seguidor de linha
 9. Acompanhamento de projeto;
