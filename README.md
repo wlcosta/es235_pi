@@ -36,7 +36,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 8. **Projeto 0**: controle de robô seguidor de linha
 9. Acompanhamento de projeto;
 10. [Transformações geométricas](10_transformacoes);
-11. **Projeto 1**: mapeamento projetivo;
+11. [**Projeto 1**: mapeamento projetivo](11_mapeamento);
 12. Acompanhamento de projeto;
 13. Processamento morfológico;
 14. Transformada de Hough *(detecção de linhas)*;
