@@ -40,7 +40,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 12. Acompanhamento de projeto;
 13. [Processamento morfológico](13_morfologico);
 14. [Transformada de Hough *(detecção de linhas)*](14_hough_linhas);
-15. Transformada de Hough *(detecção de círculos)*;
+15. [Transformada de Hough *(detecção de círculos)*](15_hough_circulos);
 16. Detecção de contornos e aproximação poligonal;
 17. Detecção de faces usando classificadores Haar *(pt. 1)*;
 18. Detecção de faces usando classificadores Haar *(pt. 2)*;
