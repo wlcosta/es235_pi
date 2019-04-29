@@ -43,7 +43,7 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 15. [Transformada de Hough *(detecção de círculos)*](15_hough_circulos);
 16. [Detecção de contornos e aproximação poligonal](16_contornos_aproximacao);
 17. [Detecção de faces usando classificadores Haar *(pt. 1)*](17_haar);
-18. Detecção de faces usando classificadores Haar *(pt. 2)*;
+18. [Detecção de faces usando classificadores Haar *(pt. 2)*](18_haar_pt2);
 19. Técnicas de Inpaint *(pt. 1)*;
 20. Técnicas de Inpaint *(pt. 2)*;
 21. **Projeto 2**: remover o logotipo de um vídeo usando Inpaint;
