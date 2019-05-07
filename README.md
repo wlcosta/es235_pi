@@ -44,9 +44,9 @@ Você poderá instalá-las de uma só vez usando o comando `pip install -r requi
 16. [Detecção de contornos e aproximação poligonal](16_contornos_aproximacao);
 17. [Detecção de faces usando classificadores Haar *(pt. 1)*](17_haar);
 18. [Detecção de faces usando classificadores Haar *(pt. 2)*](18_haar_pt2);
-19. Técnicas de Inpaint *(pt. 1)*;
-20. Técnicas de Inpaint *(pt. 2)*;
-21. **Projeto 2**: remover o logotipo de um vídeo usando Inpaint;
+19. [Técnicas de Inpaint *(pt. 1)*](19_inpaint_pt1);
+20. [Técnicas de Inpaint *(pt. 2)*](20_inpaint_pt2);
+21. [**Projeto 2**: remover o logotipo de um vídeo usando Inpaint](21_miniprojeto2);
 22. Acompanhamento de projeto;
 23. Wavelets *(pt. 1)*;
 24. Wavelets *(pt. 2)*;
