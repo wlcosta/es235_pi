@@ -4,6 +4,6 @@ Pillow
 scikit-image
 scikit-learn
 jupyter
-numpy==1.15
+numpy==1.22.0
 scipy
 ipywidgets
